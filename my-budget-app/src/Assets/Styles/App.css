@@ -1,0 +1,26 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.App-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #4CAF50;
+  color: white;
+  padding: 0 20px;
+}
+
+.App-body {
+  display: flex;
+  flex: 1;
+}
+
+.profile-icon {
+  background-color: #03A9F4;
+  border-radius: 50%;
+  padding: 10px;
+  color: white;
+}
